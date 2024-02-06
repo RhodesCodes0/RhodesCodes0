@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isaiah Rhodes,👋! </h1>
+<h1>Hi, I'm Isaiah Rhodes 👋! </h1>
 
 <h2>Projects👨‍💻 :</h2>
 
